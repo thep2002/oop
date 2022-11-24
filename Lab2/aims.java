@@ -14,6 +14,7 @@ public class aims {
         yourcart.addDigitalVideoDisc(dvd1);
         yourcart.addDigitalVideoDisc(dvd2);
         yourcart.addDigitalVideoDisc(dvd3);
+        System.out.println(DigitalVideoDisc.getNbDigitalVideoDisc());
         System.out.println("Total cost: "+yourcart.totalCost());
         yourcart.removeDigitalVideoDisc(store.get(1));
 
