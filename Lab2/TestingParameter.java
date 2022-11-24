@@ -10,8 +10,8 @@ public class TestingParameter {
         System.out.println("Jungle DvD Title: " + jungleDvd.getTitle());
     }
 
-    public static void swap(Object o1, Object o2) {
-        Object tmp = o1;
+    public static void swap(DigitalVideoDisc o1, DigitalVideoDisc o2) {
+        DigitalVideoDisc tmp = o1;
         o1 = o2;
         o2 = tmp;
     }
