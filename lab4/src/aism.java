@@ -1,8 +1,9 @@
 
+
 import java.util.ArrayList;
 import java.util.List;
-
-public class aims {
+import media.DigitalVideoDisc;
+public class aism {
     private static List<DigitalVideoDisc> store;
     public static void main(String[] args) {
         Cart yourcart = new Cart();
@@ -16,8 +17,8 @@ public class aims {
         yourcart.addDigitalVideoDisc(dvd1);
         yourcart.addDigitalVideoDisc(dvd2);
         yourcart.addDigitalVideoDisc(dvd3);
-        System.out.println("Total cost: "+yourcart.totalCost());
-        yourcart.printDigitalVideoDisc();
+//        System.out.println("Total cost: "+yourcart.totalCost());
+//        yourcart.printDigitalVideoDisc();
         yourcart.removeDigitalVideoDisc(store.get(1));
 
     }

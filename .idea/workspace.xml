@@ -1,154 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-    <component name="ChangeListManager">
-        <<<<<<< HEAD
-        <list default="true" id="621861d7-be40-4a38-82f6-ae24b867bdde" name="Changes" comment="">
-            <<<<<<< HEAD
-            <change afterPath="$PROJECT_DIR$/Lab2/store.java" afterDir="false" />
-            =======
-            <change beforePath="$PROJECT_DIR$/Lab2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/.idea/.gitignore" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/.idea/misc.xml" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/.idea/modules.xml" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/.idea/vcs.xml" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/.idea/workspace.xml" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/Cart.class" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/Cart.java" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/Desgin/Aims.asta" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/Desgin/Aims.asta" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/Desgin/design.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/Desgin/design.png" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/DigitalVideoDisc.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/DigitalVideoDisc.class" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/DigitalVideoDisc.java" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/Lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/Lab2.iml" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/Requiment/Aims.asta" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/Requiment/Aims.asta" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/Requiment/Requiment.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/Requiment/Requiment.png" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/ScoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/ScoreTest.java" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/aims.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/aims.class" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/aims.java" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/Lab2/store.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/store.java" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/oop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop.iml" afterDir="false" />
-            >>>>>>> topic/store
-        </list>
-        =======
-        <list default="true" id="621861d7-be40-4a38-82f6-ae24b867bdde" name="Changes" comment="" />
-        >>>>>>> main
-        <option name="SHOW_DIALOG" value="false" />
-        <option name="HIGHLIGHT_CONFLICTS" value="true" />
-        <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-        <option name="LAST_RESOLUTION" value="IGNORE" />
-    </component>
-    <component name="FileTemplateManagerImpl">
-        <option name="RECENT_TEMPLATES">
-            <list>
-                <option value="Class" />
-            </list>
-        </option>
-    </component>
-    <component name="Git.Settings">
-        <option name="RECENT_BRANCH_BY_REPOSITORY">
-            <map>
-                <entry key="$PROJECT_DIR$" value="topic/store" />
-            </map>
-        </option>
-        <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    </component>
-    <component name="MarkdownSettingsMigration">
-        <option name="stateVersion" value="1" />
-    </component>
-    <component name="ProjectId" id="2HtQE9Bt5eCfhxnFhfT3sUKqVJR" />
-    <component name="ProjectLevelVcsManager">
-        <ConfirmationsSetting value="2" id="Add" />
-    </component>
-    <component name="ProjectViewState">
-        <option name="hideEmptyMiddlePackages" value="true" />
-        <option name="showLibraryContents" value="true" />
-        <option name="showMembers" value="true" />
-        <option name="showVisibilityIcons" value="true" />
-    </component>
-    <<<<<<< HEAD
-    <<<<<<< HEAD
-    =======
-    >>>>>>> topic/store
-    <component name="PropertiesComponent">{
-        &quot;keyToString&quot;: {
-        &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-        &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-        &quot;last_opened_file_path&quot;: &quot;C:/Users/dongt/IdeaProjects/oop&quot;
-        <<<<<<< HEAD
-        }
-        }</component>
-    =======
-    <component name="PropertiesComponent"><![CDATA[{
+  <component name="ChangeListManager">
+    <list default="true" id="699bf44a-041d-4022-8eaa-9cdf1a0e47d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab4/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/aism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/media/CompactDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/media/DigitalVideoDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/media/Disc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/media/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/media/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/media/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/media/book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2+3/aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/aims.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Htg9rrErpVTxiSJu39KZBcD452" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/dongt/IdeaProjects/oop/otherproject/hust.soict.globalict.garbage",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
-  },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
-    ]
+    "last_opened_file_path": "C:/Users/dongt/IdeaProjects/oop",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-    <component name="RecentsManager">
-        <key name="CopyFile.RECENT_KEYS">
-            <recent name="C:\Users\dongt\IdeaProjects\oop\otherproject\hust.soict.globalict.garbage" />
-        </key>
-    </component>
-    >>>>>>> main
-    =======
-    }
-    }</component>
-        >>>>>>> topic/store
-<component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-<component name="TaskManager">
-<task active="true" id="Default" summary="Default task">
-    <changelist id="621861d7-be40-4a38-82f6-ae24b867bdde" name="Changes" comment="" />
-    <created>1669101785894</created>
-    <option name="number" value="Default" />
-    <option name="presentableId" value="Default" />
-    <updated>1669101785894</updated>
-</task>
-<servers />
-</component>
-<component name="Vcs.Log.Tabs.Properties">
-<option name="TAB_STATES">
-    <map>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="699bf44a-041d-4022-8eaa-9cdf1a0e47d2" name="Changes" comment="" />
+      <created>1669109645614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669109645614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
         <entry key="MAIN">
-            <value>
-                <State>
-                    <option name="FILTERS">
-                        <map>
-                            <entry key="branch">
-                                <value>
-                                    <list>
-                                        <<<<<<< HEAD
-                                        <option value="main" />
-                                        =======
-                                        <option value="topic/store" />
-                                        >>>>>>> topic/store
-                                    </list>
-                                </value>
-                            </entry>
-                        </map>
-                    </option>
-                </State>
-            </value>
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature/search-cart" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
         </entry>
-    </map>
-</option>
-</component>
-<component name="XDebuggerManager">
-<breakpoint-manager>
-    <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-            <properties class="java.nio.file.NoSuchFileException" package="java.nio.file" />
-            <option name="timeStamp" value="2" />
-        </breakpoint>
-    </breakpoints>
-</breakpoint-manager>
-</component>
-        </project>
+      </map>
+    </option>
+  </component>
+</project>
