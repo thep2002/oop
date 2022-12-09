@@ -7,15 +7,9 @@ public class CompactDisc extends Disc implements Playable{
     public String getArtist() {
         return artist;
     }
-    // constructor
-    public CompactDisc(String artist) {
-        super();
+    public CompactDisc(String title, String category, float cost, int length, String director, String artist) {
+        super(title, category, cost, length, director);
         this.artist = artist;
-    }
-    public CompactDisc(String artist, ArrayList<Track> tracks) {
-        super();
-        this.artist = artist;
-        this.tracks = tracks;
     }
     public void addTrack(Track track) {
         // check if track is already in the list
@@ -37,7 +31,7 @@ public class CompactDisc extends Disc implements Playable{
         }
         System.out.println("Track is not in the list");
     }
-    public float getLength() {
+    public int getLength() {
         int length = 0;
         for (int i = 0; i < tracks.size(); i++) {
             length += tracks.get(i).getLength();

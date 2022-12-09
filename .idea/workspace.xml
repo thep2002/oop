@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699bf44a-041d-4022-8eaa-9cdf1a0e47d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab4/lab4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/aism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/media/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/media/DigitalVideoDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/media/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/media/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/media/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/media/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/media/book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/Cart/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/Cart/MediaComparatorByCostTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/Cart/MediaComparatorByTitleCost.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2+3/aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2+3/aims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/src/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/src/aism.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/aism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/src/media/CompactDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/media/CompactDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/src/media/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/media/DigitalVideoDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/src/media/Disc.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/media/Disc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/src/media/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/media/Media.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/src/media/Track.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/media/Track.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/src/media/book.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/media/book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="feature/search-cart" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>

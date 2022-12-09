@@ -8,27 +8,28 @@ public class book extends Media{
     private String title;
     private String category;
     private float cost;
-    private List<String> author = new ArrayList<String>();
+    private List<String> authors = new ArrayList<String>();
 
+    public book(String title, String category, float cost) {
 
+        super(title, category, cost);
+    }
     public List<String> getAuthor() {
-        return author;
+        return authors;
     }
 
-    public void setAuthor(List<String> author) {
-        this.author = author;
-    }
-    public void addAuthor(String authorName){
-        if(!this.author.contains(authorName)){
-            this.author.add(authorName);
+
+    public void setAuthor(String authorName){
+        if(!this.authors.contains(authorName)){
+            this.authors.add(authorName);
         }
         else{
             System.out.println("The author is already exits");
         }
     }
-    public void remove(String authorName){
-        if(this.author.contains(authorName)){
-            this.author.remove(authorName);
+    public void removeAuthor(String authorName){
+        if(this.authors.contains(authorName)){
+            this.authors.remove(authorName);
         }
         else{
             System.out.println("The author is not exits");
