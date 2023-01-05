@@ -2,24 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699bf44a-041d-4022-8eaa-9cdf1a0e47d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab4/src/Cart/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/Cart/MediaComparatorByCostTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/Cart/MediaComparatorByTitleCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/GUI Project/src/hust/soict/dsai/javafx/Painter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/GUI Project/src/hust/soict/dsai/javafx/PainterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/GUI Project/src/hust/soict/dsai/swing/AWTAccumulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/GUI Project/src/hust/soict/dsai/swing/NumberGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/GUI Project/src/hust/soict/dsai/swing/SwingAccumulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/OtherProjects/OtherProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/Cart/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/Cart/MediaComparatorByCostTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/Cart/MediaComparatorByTitleCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/Store/store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/aism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/exception/LimitException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/exception/PlayerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/CompactDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/DigitalVideoDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Disc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/AddBookToStoreScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/AddCompactDiscToStoreScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/AddDigitalVideoDiscToStoreScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/AddItemToStoreScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/Interface/controler/CartScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/Interface/controler/CartScreenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/MediaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/StoreScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/lab5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/src/Cart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/src/aism.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/aism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/src/media/CompactDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/media/CompactDisc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/src/media/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/media/DigitalVideoDisc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/src/media/Disc.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/media/Disc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/src/media/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/media/Media.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/src/media/Track.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/media/Track.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/src/media/book.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/media/book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/src/store.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/OtherProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/GUI Project/GUI Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/src/hust/soict/globalict/garbage/ConcatenationInLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/OtherProjects/src/hust/soict/globalict/garbage/ConcatenationInLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/src/hust/soict/globalict/garbage/GarbageCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/OtherProjects/src/hust/soict/globalict/garbage/GarbageCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/src/hust/soict/globalict/garbage/NoGarbage.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/OtherProjects/src/hust/soict/globalict/garbage/NoGarbage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/lab4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/lab4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OtherProjects/hust/soict/globalict/garbage/ConcatenationInLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OtherProjects/hust/soict/globalict/garbage/GarbageCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OtherProjects/hust/soict/globalict/garbage/NoGarbage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/Cart/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/Cart/MediaComparatorByCostTitle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/Cart/MediaComparatorByTitleCost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/aism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/CompactDisc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/DigitalVideoDisc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/Disc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/Media.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/Playable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/Track.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/store.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,6 +74,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Htg9rrErpVTxiSJu39KZBcD452" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -48,10 +94,34 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/dongt/IdeaProjects/oop",
+    "last_opened_file_path": "C:/Users/dongt/Downloads/openjfx-19_windows-x64_bin-sdk/javafx-sdk-19/src.zip",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dongt\IdeaProjects\oop\lab5\GUI Project" />
+      <recent name="C:\Users\dongt\IdeaProjects\oop\lab5\src" />
+      <recent name="C:\Users\dongt\IdeaProjects\oop" />
+      <recent name="C:\Users\dongt\IdeaProjects\oop\lab4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dongt\IdeaProjects\oop\lab5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.javafx.Painter" />
+      <module name="GUI Project" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\dongt\Downloads\openjfx-19_windows-x64_bin-sdk\javafx-sdk-19\lib&quot; --add-modules=javafx.controls" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
