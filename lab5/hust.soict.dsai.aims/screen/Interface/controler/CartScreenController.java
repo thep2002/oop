@@ -145,7 +145,7 @@ public class CartScreenController{
     @FXML
     void btnPlayPressed(ActionEvent event) throws HeadlessException, PlayerException{
         Media media = tblMedia.getSelectionModel().getSelectedItem();
-//        JOptionPane.showMessageDialog(null,(((Playable)media).play()));
+        JOptionPane.showMessageDialog(null,(((Playable)media).play()));
     }
 
     @FXML

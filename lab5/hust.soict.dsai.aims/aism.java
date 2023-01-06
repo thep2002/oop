@@ -1,10 +1,10 @@
 import Cart.Cart;
 import Store.store;
 import media.*;
-
+import exception.*;
 import java.util.Scanner;
 
-public class aism {
+public class aism  {
     private static Cart cart = new Cart();
     private static store store = new store();
 
@@ -41,7 +41,7 @@ public class aism {
         System.out.println("Please choose a number: 0-1-2-3-4");
     }
 
-    public static void case1() {
+    public static void case1() throws LimitException, PlayerException{
         // whilemenu
 
         while (true) {
@@ -82,11 +82,7 @@ public class aism {
                     }
                     break;
                 case 2:
-                    // o The option “Add a media to cart” will ask the user to enter the title of
-                    // the media that he/she sees on the screen (the list of medias in Store.store), then
-                    // add the media to cart. Please remember to check the validity of the title.
-                    // After adding a DVD to cart, the system will display the number of DVDs in the
-                    // current cart.
+
                     store.displayStore();
                     System.out.println("Enter the title of the media you want to add in cart: ");
                     keyboard = new Scanner(System.in);
@@ -188,7 +184,7 @@ public class aism {
         store.add(cd);
     }
 
-    public static void case2() {
+    public static void case2() throws PlayerException, LimitException {
         // the application will allow the user to add a media to or remove a media from
         // the Store.store
         while (true) {
@@ -257,7 +253,7 @@ public class aism {
         System.out.println("Please choose a number: 0-1-2-3-4-5");
     }
 
-    public static void case3() {
+    public static void case3() throws PlayerException, LimitException {
         while (true) {
             cart.display();
             cartMenu();
@@ -359,7 +355,7 @@ public class aism {
 
     }
 
-    public static void mainCase() {
+    public static void mainCase() throws LimitException, PlayerException{
         while (true) {
             showMenu();
             // create a new scanner
@@ -384,7 +380,7 @@ public class aism {
 
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws PlayerException, LimitException {
         // display show menu
         DigitalVideoDisc dvd1 = new DigitalVideoDisc("The Lion King", "Animation", 19.95f, 87, "Roger Allers");
         DigitalVideoDisc dvd2 = new DigitalVideoDisc("Star Wars", "Science Fiction", 24.95f, 87, "George Lucas");

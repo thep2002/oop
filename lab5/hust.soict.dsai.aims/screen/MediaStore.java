@@ -1,5 +1,6 @@
 package screen;
 
+import exception.PlayerException;
 import media.Media;
 import media.Playable;
 
@@ -9,7 +10,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class MediaStore extends JPanel{
-    private Media media;
+    private final Media media;
 
     public MediaStore(Media media){
         this.media = media;
@@ -51,13 +52,18 @@ public class MediaStore extends JPanel{
     private class PlayBtnListener implements ActionListener{
         @Override
         public void actionPerformed(ActionEvent e){
-            //                JOptionPane.showMessageDialog(null, (Playable)media).play().toString());
+            try {
+                JOptionPane.showMessageDialog(null, ((Playable)media).play().toString());
+            } catch (PlayerException e1) {
+                JOptionPane.showMessageDialog(null, e1.getMessage(), e1.toString(), JOptionPane.ERROR_MESSAGE);
+                e1.printStackTrace();
+            }
         }
     }
 
-    private class AddCartButton implements ActionListener{
+    private class AddCartButton implements ActionListener {
         @Override
-        public void actionPerformed(ActionEvent event){
+        public void actionPerformed(ActionEvent event) {
             StoreScreen.cart.addMedia(media);
         }
     }

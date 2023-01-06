@@ -2,6 +2,7 @@ package screen;
 
 import Cart.Cart;
 import Store.store;
+import media.book;
 
 import javax.swing.*;
 import java.awt.*;
@@ -31,13 +32,13 @@ public class AddBookToStoreScreen extends AddItemToStoreScreen {
                     title = tf.getText();
                 } else if(tf.getName().equals("Category")){
                     category = tf.getText();
-                } else if(tf.getName().equals("Length")){
-                    length = Integer.parseInt(tf.getText());
                 } else if(tf.getName().equals("Cost")){
                     cost = Float.parseFloat(tf.getText());
                 }
             }
 
+            book book = new book(title, category, cost);
+            store.add(book);
             JOptionPane.showMessageDialog(null, "Adding successful");
         }
     }

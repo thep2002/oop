@@ -2,59 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699bf44a-041d-4022-8eaa-9cdf1a0e47d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/GUI Project/src/hust/soict/dsai/javafx/Painter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/GUI Project/src/hust/soict/dsai/javafx/PainterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/GUI Project/src/hust/soict/dsai/swing/AWTAccumulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/GUI Project/src/hust/soict/dsai/swing/NumberGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/GUI Project/src/hust/soict/dsai/swing/SwingAccumulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/OtherProjects/OtherProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/Cart/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/Cart/MediaComparatorByCostTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/Cart/MediaComparatorByTitleCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/Store/store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/aism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/exception/LimitException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/exception/PlayerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/DigitalVideoDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/AddBookToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/AddCompactDiscToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/AddDigitalVideoDiscToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/AddItemToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/Interface/controler/CartScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/Interface/controler/CartScreenController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/MediaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/StoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/lab5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OtherProjects/OtherProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/GUI Project/GUI Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OtherProjects/src/hust/soict/globalict/garbage/ConcatenationInLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/OtherProjects/src/hust/soict/globalict/garbage/ConcatenationInLoops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OtherProjects/src/hust/soict/globalict/garbage/GarbageCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/OtherProjects/src/hust/soict/globalict/garbage/GarbageCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OtherProjects/src/hust/soict/globalict/garbage/NoGarbage.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/OtherProjects/src/hust/soict/globalict/garbage/NoGarbage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/lab4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/lab4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OtherProjects/hust/soict/globalict/garbage/ConcatenationInLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OtherProjects/hust/soict/globalict/garbage/GarbageCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OtherProjects/hust/soict/globalict/garbage/NoGarbage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab4/Cart/Cart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab4/Cart/MediaComparatorByCostTitle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab4/Cart/MediaComparatorByTitleCost.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab4/aism.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/CompactDisc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/DigitalVideoDisc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/Disc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/Media.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/Playable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/Track.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab4/media/book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab4/store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2+3/ScoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2+3/store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Desgin/Aims.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/GUI Project/src/hust/soict/dsai/javafx/Painter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/GUI Project/src/hust/soict/dsai/javafx/Painter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/aism.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/aism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/CompactDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/CompactDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/DigitalVideoDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Media.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Playable.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Playable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Track.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/media/Track.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/AddBookToStoreScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/AddBookToStoreScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/Interface/controler/CartScreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/Interface/controler/CartScreenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/MediaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/MediaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/StoreScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/hust.soict.dsai.aims/screen/StoreScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI Project/hust/soict/dsai/javafx/Painter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI Project/hust/soict/dsai/javafx/Painter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab5/Cart/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab5/Cart/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab5/MediaStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab5/aism.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab5/aism.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab5/media/CompactDisc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab5/media/CompactDisc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab5/media/DigitalVideoDisc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab5/media/DigitalVideoDisc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab5/media/Media.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab5/media/Media.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab5/media/Playable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab5/media/Playable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab5/media/Track.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab5/media/Track.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab5/store.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +41,7 @@
       <list>
         <option value="package-info" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -94,7 +67,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/dongt/Downloads/openjfx-19_windows-x64_bin-sdk/javafx-sdk-19/src.zip",
+    "last_directory_selection": "C:/Users/dongt/IdeaProjects/oop/lab5/hust.soict.dsai/aism",
+    "last_opened_file_path": "C:/Users/dongt/IdeaProjects/oop/lab5/hust.soict.dsai/test",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -103,6 +77,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dongt\IdeaProjects\oop\lab5\hust.soict.dsai\test" />
       <recent name="C:\Users\dongt\IdeaProjects\oop\lab5\GUI Project" />
       <recent name="C:\Users\dongt\IdeaProjects\oop\lab5\src" />
       <recent name="C:\Users\dongt\IdeaProjects\oop" />
@@ -110,6 +85,9 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dongt\IdeaProjects\oop\lab5" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="aism" />
     </key>
   </component>
   <component name="RunManager">

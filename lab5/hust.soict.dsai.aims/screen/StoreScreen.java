@@ -1,15 +1,17 @@
 package screen;
 
+import Cart.Cart;
+import Store.store;
+import media.CompactDisc;
+import media.DigitalVideoDisc;
+import media.Media;
+import screen.Interface.controler.CartScreen;
+
 import javax.swing.*;
 import java.awt.*;
-import java.util.*;
-import java.awt.event.*;
-
-import media.*;
-
-import Cart.*;
-import Store.store;
-import screen.Interface.controler.CartScreen;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.ArrayList;
 
 public class StoreScreen extends JFrame{
     private store store;
@@ -39,7 +41,7 @@ public class StoreScreen extends JFrame{
         smUpdateStore.add(addCdMenu);
         menu.add(smUpdateStore);
 
-        menu.add(new JMenuItem("View Store.store"));
+        menu.add(new JMenuItem("View store"));
 
         JMenuItem cart = new JMenuItem("View cart");
         cart.addActionListener(new btnViewCart());
